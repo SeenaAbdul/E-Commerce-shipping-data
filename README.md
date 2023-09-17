@@ -1,2 +1,2 @@
-# Repo1
-My first capstone project on E-commerce data 
+My first ML project on E commerce data
+
